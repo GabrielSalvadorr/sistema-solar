@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+    font-family: "Poppins", italic;
+}
+
+body{
+    background-color: #1471b8;
+    height: 100vh;
+}
+
+.interface{
+    max-width: 1280px;
+    margin: 0 auto;
+}
+
+.flex{
+    display: flex;
+}
+
+main div h1{
+    font-size: 60px;
+    color: white;
+    display: inline-block;
+    padding: 20px;
+    margin-top: 50%;
+}
+
+main div p{
+    font-size: 25px;
+    color: white;
+    display: flex;
+    padding: 10px;
+    margin-top: 5%;
+}
+
+.image_top img{
+    height: 80x;
+    width: 700px;
+    border-radius: 80px;
+    margin-top: 30%;
+    margin-left: 0%;
+}
